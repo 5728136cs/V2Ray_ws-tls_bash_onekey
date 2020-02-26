@@ -95,4 +95,5 @@ Nginx 目录： `/etc/nginx`
 
 如需要通过支付宝/微信捐赠，请Telegram私聊 @wulabing 感谢您的支持
 
-
+v2ray使用cdn
+https://blog.sprov.xyz/2019/03/11/cdn-v2ray-safe-proxy/
