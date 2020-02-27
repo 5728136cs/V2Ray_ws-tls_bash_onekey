@@ -94,6 +94,7 @@ Nginx 目录： `/etc/nginx`
 您可以通过Telegram向我匿名捐赠：发送 /pay @wulabing xxx  到 @MugglePayBot 即可 默认货币为 USDT 
 
 如需要通过支付宝/微信捐赠，请Telegram私聊 @wulabing 感谢您的支持
-
+##自行添加##
 v2ray使用cdn
 https://blog.sprov.xyz/2019/03/11/cdn-v2ray-safe-proxy/
+https://www.hijk.pw/use-cloudflare-unlock-blocked-ip/
